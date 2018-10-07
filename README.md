@@ -4,7 +4,7 @@ I do not know if this is a configuration issue or a `jest` / `ts-jest` issue.
 
 ## Steps to Reproduce
 
-1. Observe `6` problems down by Visual Studio Code in `bar.spec.ts` and `foo.spec.ts`
+1. Observe `6` problems shown by Visual Studio Code in `bar.spec.ts` and `foo.spec.ts`
 
 2. Run the tests 
 
